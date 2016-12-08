@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Individu\IndividuDAO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Individu\IndividuDAO\bin\Debug\IndividuDAO.exe
+C:\Users\DELL\Desktop\Individu\IndividuDAO\bin\Debug\IndividuDAO.pdb
+C:\Users\DELL\Desktop\Individu\IndividuDAO\bin\Debug\IndividuDAL.exe
+C:\Users\DELL\Desktop\Individu\IndividuDAO\bin\Debug\VO.dll
+C:\Users\DELL\Desktop\Individu\IndividuDAO\bin\Debug\IndividuDAL.pdb
+C:\Users\DELL\Desktop\Individu\IndividuDAO\bin\Debug\VO.pdb
+C:\Users\DELL\Desktop\Individu\IndividuDAO\obj\x86\Debug\IndividuDAO.exe
+C:\Users\DELL\Desktop\Individu\IndividuDAO\obj\x86\Debug\IndividuDAO.pdb

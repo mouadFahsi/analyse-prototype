@@ -1,0 +1,21 @@
+C:\Users\DELL\Desktop\Individu\IndividuDAL\bin\Debug\IndividuDAL.exe.config
+C:\Users\DELL\Desktop\Individu\IndividuDAL\bin\Debug\IndividuDAL.exe
+C:\Users\DELL\Desktop\Individu\IndividuDAL\bin\Debug\IndividuDAL.pdb
+C:\Users\DELL\Desktop\Individu\IndividuDAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.FormGestionIndividus.resources
+C:\Users\DELL\Desktop\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.FormIndividu.resources
+C:\Users\DELL\Desktop\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.Properties.Resources.resources
+C:\Users\DELL\Desktop\Individu\IndividuDAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\Individu\IndividuDAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.exe
+C:\Users\DELL\Desktop\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.pdb
+C:\Users\DELL\Desktop\Individu\IndividuDAL\bin\Debug\VO.dll
+C:\Users\DELL\Desktop\Individu\IndividuDAL\bin\Debug\VO.pdb
+C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.FormGestionIndividus.resources
+C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.FormIndividu.resources
+C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.Properties.Resources.resources
+C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.exe
+C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.pdb

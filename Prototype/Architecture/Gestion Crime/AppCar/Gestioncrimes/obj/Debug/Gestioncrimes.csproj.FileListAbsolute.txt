@@ -1,0 +1,26 @@
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.csprojResolveAssemblyReference.cache
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.FormGestionCrimes.resources
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.Properties.Resources.resources
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.csproj.GenerateResource.Cache
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\bin\Debug\Gestioncrimes.exe.config
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\bin\Debug\Gestioncrimes.exe
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\bin\Debug\Gestioncrimes.pdb
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\bin\Debug\CrimeDAL.exe
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\bin\Debug\VO.dll
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\bin\Debug\CrimeDAL.pdb
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\bin\Debug\VO.pdb
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.exe
+C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.pdb
+F:\Fahsi's Work\AppCar\Gestioncrimes\bin\Debug\Gestioncrimes.exe.config
+F:\Fahsi's Work\AppCar\Gestioncrimes\bin\Debug\Gestioncrimes.exe
+F:\Fahsi's Work\AppCar\Gestioncrimes\bin\Debug\Gestioncrimes.pdb
+F:\Fahsi's Work\AppCar\Gestioncrimes\bin\Debug\CrimeDAL.exe
+F:\Fahsi's Work\AppCar\Gestioncrimes\bin\Debug\VO.dll
+F:\Fahsi's Work\AppCar\Gestioncrimes\bin\Debug\CrimeDAL.pdb
+F:\Fahsi's Work\AppCar\Gestioncrimes\bin\Debug\VO.pdb
+F:\Fahsi's Work\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.csprojResolveAssemblyReference.cache
+F:\Fahsi's Work\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.FormGestionCrimes.resources
+F:\Fahsi's Work\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.Properties.Resources.resources
+F:\Fahsi's Work\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.csproj.GenerateResource.Cache
+F:\Fahsi's Work\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.exe
+F:\Fahsi's Work\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.pdb
