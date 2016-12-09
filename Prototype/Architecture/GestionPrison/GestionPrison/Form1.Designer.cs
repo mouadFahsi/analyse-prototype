@@ -228,6 +228,7 @@
             this.Modifier.Name = "Modifier";
             this.Modifier.Resizable = System.Windows.Forms.DataGridViewTriState.True;
             this.Modifier.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.Modifier.Text = "Modifier";
             // 
             // Supprimer
             // 

@@ -35,8 +35,6 @@ namespace IndividuDAL
             // TODO: This line of code loads data into the 'dataSet1.Individu' table. You can move, or remove it, as needed.
             //   this.individuTableAdapter.Fill(this.dataSet1.Individu);
 
-
-
         }
         public void Actualiser()
         {

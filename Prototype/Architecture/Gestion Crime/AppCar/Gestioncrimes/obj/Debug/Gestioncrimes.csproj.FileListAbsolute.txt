@@ -24,3 +24,16 @@ F:\Fahsi's Work\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.Properties.Resource
 F:\Fahsi's Work\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.csproj.GenerateResource.Cache
 F:\Fahsi's Work\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.exe
 F:\Fahsi's Work\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.pdb
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\bin\Debug\Gestioncrimes.exe.config
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\bin\Debug\Gestioncrimes.exe
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\bin\Debug\Gestioncrimes.pdb
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\bin\Debug\CrimeDAL.exe
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\bin\Debug\VO.dll
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\bin\Debug\CrimeDAL.pdb
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\bin\Debug\VO.pdb
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.csprojResolveAssemblyReference.cache
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.FormGestionCrimes.resources
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.Properties.Resources.resources
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.csproj.GenerateResource.Cache
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.exe
+D:\analyse-prototype\Prototype\Architecture\Gestion Crime\AppCar\Gestioncrimes\obj\Debug\Gestioncrimes.pdb

@@ -6,3 +6,11 @@ C:\Users\temsamani's\Desktop\testapplication\ResponsableDAL\bin\Debug\VO.pdb
 C:\Users\temsamani's\Desktop\testapplication\ResponsableDAL\obj\Debug\ResponsableDAL.csprojResolveAssemblyReference.cache
 C:\Users\temsamani's\Desktop\testapplication\ResponsableDAL\obj\Debug\ResponsableDAL.exe
 C:\Users\temsamani's\Desktop\testapplication\ResponsableDAL\obj\Debug\ResponsableDAL.pdb
+D:\analyse-prototype\Prototype\Architecture\Gestion Responsable\ResponsableDAL\bin\Debug\ResponsableDAL.exe.config
+D:\analyse-prototype\Prototype\Architecture\Gestion Responsable\ResponsableDAL\bin\Debug\ResponsableDAL.exe
+D:\analyse-prototype\Prototype\Architecture\Gestion Responsable\ResponsableDAL\bin\Debug\ResponsableDAL.pdb
+D:\analyse-prototype\Prototype\Architecture\Gestion Responsable\ResponsableDAL\bin\Debug\VO.dll
+D:\analyse-prototype\Prototype\Architecture\Gestion Responsable\ResponsableDAL\bin\Debug\VO.pdb
+D:\analyse-prototype\Prototype\Architecture\Gestion Responsable\ResponsableDAL\obj\Debug\ResponsableDAL.csprojResolveAssemblyReference.cache
+D:\analyse-prototype\Prototype\Architecture\Gestion Responsable\ResponsableDAL\obj\Debug\ResponsableDAL.exe
+D:\analyse-prototype\Prototype\Architecture\Gestion Responsable\ResponsableDAL\obj\Debug\ResponsableDAL.pdb

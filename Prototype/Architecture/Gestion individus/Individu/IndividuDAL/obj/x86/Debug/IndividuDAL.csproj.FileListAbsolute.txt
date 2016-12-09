@@ -19,3 +19,15 @@ C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\Gener
 C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.exe
 C:\Users\DELL\Desktop\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.pdb
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\bin\Debug\IndividuDAL.exe.config
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\bin\Debug\IndividuDAL.exe
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\bin\Debug\IndividuDAL.pdb
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\bin\Debug\VO.dll
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\bin\Debug\VO.pdb
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.csprojResolveAssemblyReference.cache
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.FormGestionIndividus.resources
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.FormIndividu.resources
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.Properties.Resources.resources
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.csproj.GenerateResource.Cache
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.exe
+D:\analyse-prototype\Prototype\Architecture\Gestion individus\Individu\IndividuDAL\obj\x86\Debug\IndividuDAL.pdb

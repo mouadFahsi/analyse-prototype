@@ -43,7 +43,7 @@ namespace GestionPrison
         private void btajouter_Click(object sender, EventArgs e)
         {
             FormGestionPrison p = new FormGestionPrison();
-            p.Show();
+            p.ShowDialog();
             this.acct();
         }
 
@@ -78,7 +78,7 @@ namespace GestionPrison
         {
             if(e.ColumnIndex==3)
             {
-                string nom = (string)prisonDataGridView.SelectedCells[0].Value;
+                string nom = prisonDataGridView.Rows[e.RowIndex].Cells[0].Value.ToString();
                 FormGestionPrison p = new FormGestionPrison();
                p.Update(nom);
                 p.ShowDialog();
@@ -120,10 +120,9 @@ namespace GestionPrison
 
                  if (c.Value != null && (bool)c.Value == true)
                  {
-                    // prisonDataGridView.Rows.RemoveAt(r.Index);
-                    //  i--;
-                    DSPrison.prisonRow s = new prisonTableAdapter().GetData().FindBynom(nomTextBox.Text);
-                    // s.Delete();
+                    string nom = prisonDataGridView.Rows[i=0].Cells[0].Value.ToString();
+                    DSPrison.prisonRow s = new prisonTableAdapter().GetData().FindBynom(nom);
+                     s.Delete();
                      prisonDataGridView.Rows.RemoveAt(r.Index);
                       i--;
                     new prisonTableAdapter().Update(s);
