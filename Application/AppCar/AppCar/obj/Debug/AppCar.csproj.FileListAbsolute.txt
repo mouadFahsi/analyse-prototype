@@ -12,3 +12,6 @@ C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\A
 C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\AppCar\bin\Debug\IndividuDAL.exe
 C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\AppCar\bin\Debug\VO.pdb
 C:\Users\Mouad\OneDrive\Documents\Visual Studio 2017\Projects\ProjetCar\AppCar\AppCar\bin\Debug\IndividuDAL.pdb
+D:\analyse-prototype\Application\AppCar\AppCar\bin\Debug\AppCar.exe.config
+D:\analyse-prototype\Application\AppCar\AppCar\obj\Debug\AppCar.exe
+D:\analyse-prototype\Application\AppCar\AppCar\obj\Debug\AppCar.pdb
