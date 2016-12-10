@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{28282B15-747B-4BE3-A3DB-A5A16A476930}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CompetencePlus</RootNamespace>
+    <AssemblyName>CompetencePlusForm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MenuApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuApplication.designer.cs">
+      <DependentUpon>MenuApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageFilieres\FormFiliere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageFilieres\FormFiliere.Designer.cs">
+      <DependentUpon>FormFiliere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageFilieres\FormGestionFiliere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageFilieres\FormGestionFiliere.Designer.cs">
+      <DependentUpon>FormGestionFiliere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageFilieres\FormUpdateFiliere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageFilieres\FormUpdateFiliere.Designer.cs">
+      <DependentUpon>FormUpdateFiliere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageGroupes\FormGroupe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageGroupes\FormGroupe.Designer.cs">
+      <DependentUpon>FormGroupe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormGestionInscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormGestionInscription.designer.cs">
+      <DependentUpon>FormGestionInscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormGestionStagiaires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormGestionStagiaires.designer.cs">
+      <DependentUpon>FormGestionStagiaires.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormStagiairesConfirmerInscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormStagiairesConfirmerInscription.designer.cs">
+      <DependentUpon>FormStagiairesConfirmerInscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormStagiairesInscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormStagiairesInscription.designer.cs">
+      <DependentUpon>FormStagiairesInscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormUpdateStagiaires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormUpdateStagiaires.designer.cs">
+      <DependentUpon>FormUpdateStagiaires.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MenuApplication.resx">
+      <DependentUpon>MenuApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageFilieres\FormFiliere.resx">
+      <DependentUpon>FormFiliere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageFilieres\FormGestionFiliere.resx">
+      <DependentUpon>FormGestionFiliere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageFilieres\FormUpdateFiliere.resx">
+      <DependentUpon>FormUpdateFiliere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageGroupes\FormGroupe.resx">
+      <DependentUpon>FormGroupe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageStagiaires\FormGestionInscription.resx">
+      <DependentUpon>FormGestionInscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageStagiaires\FormGestionStagiaires.resx">
+      <DependentUpon>FormGestionStagiaires.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageStagiaires\FormStagiairesConfirmerInscription.resx">
+      <DependentUpon>FormStagiairesConfirmerInscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageStagiaires\FormStagiairesInscription.resx">
+      <DependentUpon>FormStagiairesInscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageStagiaires\FormUpdateStagiaires.resx">
+      <DependentUpon>FormUpdateStagiaires.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\CompetencePlus.PackageFilieres.Filiere.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CompetencePlusBAL\CompetencePlusBAL.csproj">
+      <Project>{7E9F0744-77A1-4D80-9444-B08135039238}</Project>
+      <Name>CompetencePlusBAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CompetencePlusDAL\CompetencePlusDAL.csproj">
+      <Project>{EE60A421-F5B8-438B-B892-851DD1E118E3}</Project>
+      <Name>CompetencePlusDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clean.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clear.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Error.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
