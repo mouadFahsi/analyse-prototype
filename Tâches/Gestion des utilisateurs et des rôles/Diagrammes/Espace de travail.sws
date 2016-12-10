@@ -5,7 +5,7 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{4D5DD714-7983-496A-8F9C-ABE17146B7A9}" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Cas d&#39;utilisation.moo"/>
-		<Model Expanded="Yes" ID="{3252628B-312C-4663-A06C-94E205183167}" Name="ModeleOrienteObjet_2" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagramme de classe.moo"/>
+		<Model Expanded="Yes" ID="{3252628B-312C-4663-A06C-94E205183167}" Name="ModeleOrienteObjet_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagramme de classe.moo"/>
 	</Local>
 	<BrowserModule Name="Référentiel"/>
 </Workspace>

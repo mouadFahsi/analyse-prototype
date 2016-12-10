@@ -1,0 +1,6 @@
+	-Tache : ErrorProvider 
+	-Date Debut :
+	-Date Fin : 
+	-Nom/Prenom :Aital Mariam	
+	-Reference :	
+		* Fichier PDF : c# - Validating multiple textboxes using errorprovider - Stack Overflow
