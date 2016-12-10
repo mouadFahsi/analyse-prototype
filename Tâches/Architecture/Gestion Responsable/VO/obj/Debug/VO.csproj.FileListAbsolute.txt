@@ -1,5 +1,0 @@
-C:\Users\temsamani's\Desktop\testapplication\VO\bin\Debug\VO.dll
-C:\Users\temsamani's\Desktop\testapplication\VO\bin\Debug\VO.pdb
-C:\Users\temsamani's\Desktop\testapplication\VO\obj\Debug\VO.csprojResolveAssemblyReference.cache
-C:\Users\temsamani's\Desktop\testapplication\VO\obj\Debug\VO.dll
-C:\Users\temsamani's\Desktop\testapplication\VO\obj\Debug\VO.pdb
