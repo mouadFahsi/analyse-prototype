@@ -54,3 +54,6 @@ D:\analyse-prototype\Prototype\Architecture\AppCar\AppCar\bin\Debug\ResponsableD
 D:\analyse-prototype\Prototype\Architecture\AppCar\AppCar\bin\Debug\testapplication.pdb
 D:\analyse-prototype\Prototype\Architecture\AppCar\AppCar\bin\Debug\IndividuDAL.pdb
 D:\analyse-prototype\Prototype\Architecture\AppCar\AppCar\bin\Debug\ResponsableDAL.pdb
+D:\analyse-prototype\Tâches\Architecture\AppCar\AppCar\bin\Debug\AppCar.exe.config
+D:\analyse-prototype\Tâches\Architecture\AppCar\AppCar\obj\Debug\AppCar.exe
+D:\analyse-prototype\Tâches\Architecture\AppCar\AppCar\obj\Debug\AppCar.pdb

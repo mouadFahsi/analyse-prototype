@@ -14,3 +14,6 @@ E:\Rech\2 - Enregistrer Image\Projet\Projet\obj\x86\Debug\Projet.pdb
 D:\analyse-prototype\Besoin technique\2 - Enregistrer Image\Projet\Projet\bin\Debug\Projet.exe.config
 D:\analyse-prototype\Besoin technique\2 - Enregistrer Image\Projet\Projet\obj\x86\Debug\Projet.exe
 D:\analyse-prototype\Besoin technique\2 - Enregistrer Image\Projet\Projet\obj\x86\Debug\Projet.pdb
+D:\analyse-prototype\Tâches\Besoin technique\2 - Enregistrer Image\Projet\Projet\bin\Debug\Projet.exe.config
+D:\analyse-prototype\Tâches\Besoin technique\2 - Enregistrer Image\Projet\Projet\obj\x86\Debug\Projet.exe
+D:\analyse-prototype\Tâches\Besoin technique\2 - Enregistrer Image\Projet\Projet\obj\x86\Debug\Projet.pdb
